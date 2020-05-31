@@ -10,3 +10,16 @@ Given the time constraint of a hackathon (this one being 36 hours) I felt that w
 ### This Project
 
 The purpose of this project is to revamp Now You See Me to be more efficent with the processing and add new fetures that we were unable to implement in the first run of the project. 
+
+### Planned Fetures
+
+   * Multiple people cloaking at the same time
+   * Independent cloaking for each person
+   * App to control the cloaking
+   * voice recognition
+
+### Implemented Features
+
+    None so far.
+
+
