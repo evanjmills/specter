@@ -1,8 +1,12 @@
 import click
+from cloaker import Cloaker
 
-@click.command
+
 def main():
-	pass
+	cloaker = Cloaker()
 
-if __name__ == "__main__":
+	click.secho('test', fg='blue')
+
+
+if __name__ == '__main__':
 	main()
