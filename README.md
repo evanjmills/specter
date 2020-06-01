@@ -1,4 +1,4 @@
-# specter
+# Specter
 
 ### Original Project
 
